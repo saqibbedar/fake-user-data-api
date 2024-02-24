@@ -34,7 +34,7 @@ Each entry in the JSON array represents an individual with attributes such as na
         if(!response.ok){
             throw new Error("failed to locate resources.");
         }
-        const data = response.json();
+        const data = await response.json();
         console.log(data);
         }
         catch(error){
