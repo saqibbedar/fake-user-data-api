@@ -50,7 +50,7 @@ Each entry in the JSON array represents an individual with attributes such as na
 This repo is for learning purposes, so, feel free to use this fake user data for testing, development, or educational purposes.
 
 ## Example
-Also, check out this `[Search Engine Tool](https://github.com/saqibbedar/CS-Student-Search-Engine)`, this project is the same as this but I have used JSON data of my classmates and made a search tool to search each user individually. It is a great project and beginner-friendly, especially when working with API or JSON-type data. 
+Also, check out this [`Search Engine Tool`](https://github.com/saqibbedar/CS-Student-Search-Engine), this project is the same as this but I have used JSON data of my classmates and made a search tool to search each user individually. It is a great project and beginner-friendly, especially when working with API or JSON-type data. 
 
 ## Contribute 😍
 
